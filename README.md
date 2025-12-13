@@ -1,8 +1,6 @@
 ## Hi, I'm Simanta 👋
 
-🎓 Computer Science student at Jahangirnagar University.<br/>
-🔭 Currently working on a Machine Learning research project focused on natural language processing.<br/>
-👨‍💻 Looking to collaborate on open-source projects, especially those involving cross-platform desktop app theming.<br/>
+👨‍💻 Looking to collaborate on open-source projects.<br/>
 🧠 Interested in UI/UX.<br/>
 
 # 💻 Tech Stack:
